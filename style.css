@@ -35,3 +35,7 @@ body {
     background: lavenderblush;
     border-radius: 0.5rem;
 }
+
+.card {
+    border-bottom: hotpink 8px solid;
+}
