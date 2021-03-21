@@ -30,3 +30,8 @@ body {
 .main-row h1 {
     font-size: 4rem;
 }
+
+#about {
+    background: lavenderblush;
+    border-radius: 0.5rem;
+}
