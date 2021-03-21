@@ -6,3 +6,13 @@ body {
 .m-heading {
     font-family: "Roboto", serif;
 }
+
+.navigation-link {
+    border: 2px solid transparent;
+}
+
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid hotpink;
+    transition: 0.5s ease;
+}
