@@ -40,6 +40,7 @@ body {
 #about {
     background: lavenderblush;
     border-radius: 0.5rem;
+    font-family: "Roboto";
 }
 
 .card {
@@ -48,6 +49,7 @@ body {
 
 #social-media {
     background: lavenderblush;
+    font-family: "Roboto"
 }
 
 .media-link {
@@ -56,4 +58,12 @@ body {
     margin-left: 1rem;
     border: 2px solid hotpink;
     border-radius: 0.5rem;
+}
+
+#projects {
+    font-family: "Roboto"
+}
+
+.navigation-link {
+    color: lavenderblush;
 }
